@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\bin\Debug\net5.0\other thing.exe
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\bin\Debug\net5.0\other thing.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\bin\Debug\net5.0\other thing.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\bin\Debug\net5.0\other thing.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\bin\Debug\net5.0\other thing.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\bin\Debug\net5.0\other thing.pdb
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\refint\other thing.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.pdb
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\other thing.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\other thing\obj\Debug\net5.0\ref\other thing.dll

@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\bin\Debug\net5.0\has the number been entered.exe
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\bin\Debug\net5.0\has the number been entered.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\bin\Debug\net5.0\has the number been entered.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\bin\Debug\net5.0\has the number been entered.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\bin\Debug\net5.0\has the number been entered.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\bin\Debug\net5.0\has the number been entered.pdb
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\refint\has the number been entered.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.pdb
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\has the number been entered.genruntimeconfig.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Arrays and Lists\has the number been entered\obj\Debug\net5.0\ref\has the number been entered.dll
